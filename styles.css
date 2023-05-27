@@ -64,6 +64,9 @@ a {
   text-decoration: none;
 }
 
+a:hover{
+  color:red}
+
 #block-2 {
   width: 50%;
   margin-left: 500px;
